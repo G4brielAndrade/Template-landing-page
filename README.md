@@ -29,7 +29,8 @@ Landing page moderna, responsiva e personalizável — feita com HTML, CSS e Jav
 
 ---
 
-✏️ Personalização
+## ✏️ Personalização
+
 Substitua o logo e os textos pelo conteúdo da sua marca
 
 Adicione mais seções, animações ou integrações conforme necessário
