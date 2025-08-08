@@ -39,8 +39,7 @@ landing-page/
 
 ---
 
-## 📦 Como usar
+✏️ Personalização
+Substitua o logo e os textos pelo conteúdo da sua marca
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/landing-page-base.git
+Adicione mais seções, animações ou integrações conforme necessário
