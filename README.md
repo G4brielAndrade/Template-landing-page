@@ -1,4 +1,3 @@
-# Template-landing-page
 # 🚀 Landing Page Base
 
 Landing page moderna, responsiva e personalizável — feita com HTML, CSS e JavaScript puro. Ideal como ponto de partida para projetos pessoais, profissionais ou testes de portfólio.
