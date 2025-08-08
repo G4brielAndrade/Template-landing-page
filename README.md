@@ -5,15 +5,6 @@ Landing page moderna, responsiva e personalizável — feita com HTML, CSS e Jav
 
 ---
 
-## 📂 Estrutura do Projeto
-landing-page/
-├── index.html # Estrutura da página
-├── style.css # Estilos visuais
-└── script.js # Funcionalidade básica (formulário)
-
-
----
-
 ## 📸 Prévia (Screenshot)
 
 <img width="1456" height="770" alt="image" src="https://github.com/user-attachments/assets/cb8b4487-ff14-4e76-990b-c2b8c636694b" />
